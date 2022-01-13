@@ -4,4 +4,4 @@ I am still confused about markdown files.
 
 **Test Bold Text**
 
-~~This was mistaken text~~
+~~This text is struck through~~
